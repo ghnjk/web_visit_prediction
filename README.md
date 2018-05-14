@@ -28,8 +28,8 @@
 
 ## 使用sin模拟正常访问
 
-  ![sin_predict.png](sin_predict.png)
+  ![sin_predict.png](doc/sin_predict.png)
 
 ## 模拟节假日整体幅度大调整
 
-  ![vocation_predict.png](vocation_predict.png)
+  ![vocation_predict.png](doc/vocation_predict.png)
